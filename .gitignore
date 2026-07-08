@@ -1,0 +1,15 @@
+# Next.js build and dependencies
+next-app/node_modules/
+next-app/.next/
+next-app/out/
+next-app/build/
+
+# Production build warning/logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
